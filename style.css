@@ -33,7 +33,7 @@ body {
 }
 
 #num-contributions, #total-raised, #num-games {
-    font-size: 50px;
+    font-size: 35px;
 }
 
 #games-container {
@@ -72,4 +72,16 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+.stats-container {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+    font-size: 30px;
+}
+
+.img-container {
+    width: 100%;
 }
