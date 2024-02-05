@@ -22,7 +22,7 @@ Some visual cues that help allow the app to look more appealing using css.
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/aXzxFDt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/aXzxFDt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with ...  
